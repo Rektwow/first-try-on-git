@@ -6,3 +6,10 @@ body {
   height: 200px;
   border: solid white 5px;
 }
+/*  navi bar */
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
